@@ -1,0 +1,15 @@
+{
+  "name": "ai-engineering-from-scratch",
+  "owner": {
+    "name": "jdaiguemorte",
+    "url": "https://github.com/jdaiguemorte"
+  },
+  "plugins": [
+    {
+      "name": "ai-engineering-from-scratch",
+      "source": "./",
+      "description": "Interactive tutor skills for the AI Engineering from Scratch curriculum: onboarding, lesson-by-lesson teaching, course navigation, focused MCP and Agent Skills tracks, phase quizzes, and Claude certification prep.",
+      "version": "1.0.0"
+    }
+  ]
+}
