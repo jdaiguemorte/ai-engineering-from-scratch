@@ -1,0 +1,13 @@
+{
+  "name": "ai-engineering-from-scratch",
+  "description": "Interactive tutor skills for the AI Engineering from Scratch curriculum (511 lessons, 20 phases): onboarding, lesson-by-lesson teaching, course navigation, focused MCP and Agent Skills tracks, phase quizzes, and Claude certification prep.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jdaiguemorte",
+    "url": "https://github.com/jdaiguemorte"
+  },
+  "homepage": "https://aiengineeringfromscratch.com",
+  "repository": "https://github.com/jdaiguemorte/ai-engineering-from-scratch",
+  "license": "MIT",
+  "keywords": ["curriculum", "ai-engineering", "tutor", "learning", "mcp", "agent-skills"]
+}
